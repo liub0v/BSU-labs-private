@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\user\source\repos\первый семестр\уп\list\list\main.cpp(5): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  LIst.vcxproj -> C:\Users\User\source\repos\первый семестр\УП\LIst\Debug\LIst(шаблон классов).exe

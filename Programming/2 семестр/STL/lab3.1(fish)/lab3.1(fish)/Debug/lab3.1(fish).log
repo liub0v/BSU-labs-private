@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\user\source\repos\lab3.1(fish)\lab3.1(fish)\source.cpp(10): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  lab3.1(fish).vcxproj -> C:\Users\User\source\repos\lab3.1(fish)\Debug\lab3.1(fish).exe

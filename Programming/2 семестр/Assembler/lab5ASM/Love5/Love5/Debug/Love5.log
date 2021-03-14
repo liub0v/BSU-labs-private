@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\User\source\repos\второй семестр\lab5ASM\Love5\Love5\Main.cpp(21,3): warning C4101:  m: неиспользованная локальная переменная
+C:\Users\User\source\repos\второй семестр\lab5ASM\Love5\Love5\Main.cpp(23,3): warning C4101:  hlp: неиспользованная локальная переменная
+  Love5.vcxproj -> C:\Users\User\source\repos\второй семестр\lab5ASM\Love5\Debug\Love5.exe

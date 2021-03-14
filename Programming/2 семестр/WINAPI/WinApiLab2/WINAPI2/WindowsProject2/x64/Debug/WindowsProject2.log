@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  WindowsProject2.cpp
+C:\Users\User\source\repos\WinApiLab2-20190604T112332Z-001\WinApiLab2\WindowsProject2\WindowsProject2.cpp(175,30): warning C4267:  =: преобразование из "size_t" в "LONG"; возможна потеря данных
+C:\Users\User\source\repos\WinApiLab2-20190604T112332Z-001\WinApiLab2\WindowsProject2\WindowsProject2.cpp(179,45): warning C4267:  аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\source\repos\WinApiLab2-20190604T112332Z-001\WinApiLab2\WindowsProject2\WindowsProject2.cpp(167,8): warning C4101:  rc: неиспользованная локальная переменная
+C:\Users\User\source\repos\WinApiLab2-20190604T112332Z-001\WinApiLab2\WindowsProject2\WindowsProject2.cpp(236,8): warning C4244:  инициализация: преобразование "double" в "int", возможна потеря данных
+  WindowsProject2.vcxproj -> C:\Users\User\source\repos\WinApiLab2-20190604T112332Z-001\WinApiLab2\x64\Debug\WindowsProject2.exe

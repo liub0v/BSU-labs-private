@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\user\source\repos\laba3random\laba3random\source.cpp(5): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+c:\users\user\source\repos\laba3random\laba3random\source.cpp(16): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  laba3random.vcxproj -> C:\Users\User\source\repos\laba3random\Debug\laba3random.exe

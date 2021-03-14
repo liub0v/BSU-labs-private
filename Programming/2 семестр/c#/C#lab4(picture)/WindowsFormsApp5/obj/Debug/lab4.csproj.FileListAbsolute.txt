@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\второй семестр\c#\C#lab4(picture)\WindowsFormsApp5\obj\Debug\lab4.csprojAssemblyReference.cache
+C:\Users\User\source\repos\второй семестр\c#\C#lab4(picture)\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.resources
+C:\Users\User\source\repos\второй семестр\c#\C#lab4(picture)\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\User\source\repos\второй семестр\c#\C#lab4(picture)\WindowsFormsApp5\obj\Debug\lab4.csproj.GenerateResource.cache
+C:\Users\User\source\repos\второй семестр\c#\C#lab4(picture)\WindowsFormsApp5\obj\Debug\lab4.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\второй семестр\c#\C#lab4(picture)\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\User\source\repos\второй семестр\c#\C#lab4(picture)\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+C:\Users\User\source\repos\второй семестр\c#\C#lab4(picture)\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\User\source\repos\второй семестр\c#\C#lab4(picture)\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\User\source\repos\второй семестр\c#\C#lab4(picture)\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb

@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<title>
+				geometric figures
+			</title><link rel="stylesheet" type="text/css" href="styles.css" /><body>
+				<p>Click on the figures to learn more about it:</p>
+				<img src="picture.jpeg" width="774" height="572" alt="Planets" usemap="#planetmap" />
+				<map name="planetmap">
+					<area shape="rect" coords="105,94,345,264" alt="Треугольник" href="https://en.wikipedia.org/wiki/Triangle" target="_blank" />
+					<area shape="rect" coords="466,88,649,271" alt="Круг" href="https://en.wikipedia.org/wiki/Circle" target="_blank" />
+					<area shape="rect" coords="108,289,294,470" alt="Квадрат" href="https://en.wikipedia.org/wiki/Square" target="_blank" />
+					<area shape="rect" coords="378,350,683,465" alt="Прямоугольник" href="https://en.wikipedia.org/wiki/Rectangle" target="_blank" />
+					<area shape=rect coords=0,0,774,572 nohref alt=NoHref>
+
+				</map>

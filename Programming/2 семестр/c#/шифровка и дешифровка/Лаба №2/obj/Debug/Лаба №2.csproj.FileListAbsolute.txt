@@ -1,0 +1,59 @@
+D:\работы c++\Задания у Гутникова\Лаба №2\Лаба №2\bin\Debug\Лаба №2.exe.config
+D:\работы c++\Задания у Гутникова\Лаба №2\Лаба №2\bin\Debug\Лаба №2.exe
+D:\работы c++\Задания у Гутникова\Лаба №2\Лаба №2\bin\Debug\Лаба №2.pdb
+D:\работы c++\Задания у Гутникова\Лаба №2\Лаба №2\obj\Debug\Лаба №2.csprojResolveAssemblyReference.cache
+D:\работы c++\Задания у Гутникова\Лаба №2\Лаба №2\obj\Debug\Лаба__2.Form1.resources
+D:\работы c++\Задания у Гутникова\Лаба №2\Лаба №2\obj\Debug\Лаба__2.Properties.Resources.resources
+D:\работы c++\Задания у Гутникова\Лаба №2\Лаба №2\obj\Debug\Лаба №2.csproj.GenerateResource.Cache
+D:\работы c++\Задания у Гутникова\Лаба №2\Лаба №2\obj\Debug\Лаба №2.exe
+D:\работы c++\Задания у Гутникова\Лаба №2\Лаба №2\obj\Debug\Лаба №2.pdb
+D:\Задания у Гутникова\Лаба №2\Лаба №2\bin\Debug\Лаба №2.exe.config
+D:\Задания у Гутникова\Лаба №2\Лаба №2\bin\Debug\Лаба №2.exe
+D:\Задания у Гутникова\Лаба №2\Лаба №2\bin\Debug\Лаба №2.pdb
+D:\Задания у Гутникова\Лаба №2\Лаба №2\obj\Debug\Лаба №2.csprojResolveAssemblyReference.cache
+D:\Задания у Гутникова\Лаба №2\Лаба №2\obj\Debug\Лаба__2.Form1.resources
+D:\Задания у Гутникова\Лаба №2\Лаба №2\obj\Debug\Лаба__2.Properties.Resources.resources
+D:\Задания у Гутникова\Лаба №2\Лаба №2\obj\Debug\Лаба №2.csproj.GenerateResource.Cache
+D:\Задания у Гутникова\Лаба №2\Лаба №2\obj\Debug\Лаба №2.csproj.CoreCompileInputs.cache
+D:\Задания у Гутникова\Лаба №2\Лаба №2\obj\Debug\Лаба №2.exe
+D:\Задания у Гутникова\Лаба №2\Лаба №2\obj\Debug\Лаба №2.pdb
+C:\Users\Валентина\Downloads\c\Задания у Гутникова\Лаба №2\Лаба №2\bin\Debug\Лаба №2.exe.config
+C:\Users\Валентина\Downloads\c\Задания у Гутникова\Лаба №2\Лаба №2\bin\Debug\Лаба №2.exe
+C:\Users\Валентина\Downloads\c\Задания у Гутникова\Лаба №2\Лаба №2\bin\Debug\Лаба №2.pdb
+C:\Users\Валентина\Downloads\c\Задания у Гутникова\Лаба №2\Лаба №2\obj\Debug\Лаба №2.csprojAssemblyReference.cache
+C:\Users\Валентина\Downloads\c\Задания у Гутникова\Лаба №2\Лаба №2\obj\Debug\Лаба__2.Form1.resources
+C:\Users\Валентина\Downloads\c\Задания у Гутникова\Лаба №2\Лаба №2\obj\Debug\Лаба__2.Properties.Resources.resources
+C:\Users\Валентина\Downloads\c\Задания у Гутникова\Лаба №2\Лаба №2\obj\Debug\Лаба №2.csproj.GenerateResource.cache
+C:\Users\Валентина\Downloads\c\Задания у Гутникова\Лаба №2\Лаба №2\obj\Debug\Лаба №2.csproj.CoreCompileInputs.cache
+C:\Users\Валентина\Downloads\c\Задания у Гутникова\Лаба №2\Лаба №2\obj\Debug\Лаба №2.exe
+C:\Users\Валентина\Downloads\c\Задания у Гутникова\Лаба №2\Лаба №2\obj\Debug\Лаба №2.pdb
+D:\c#\Задания у Гутникова\Мороз Лабораторная 2 - шифровка и дешифровка\Лаба №2\bin\Debug\Лаба №2.exe.config
+D:\c#\Задания у Гутникова\Мороз Лабораторная 2 - шифровка и дешифровка\Лаба №2\bin\Debug\Лаба №2.exe
+D:\c#\Задания у Гутникова\Мороз Лабораторная 2 - шифровка и дешифровка\Лаба №2\bin\Debug\Лаба №2.pdb
+D:\c#\Задания у Гутникова\Мороз Лабораторная 2 - шифровка и дешифровка\Лаба №2\obj\Debug\Лаба №2.csprojAssemblyReference.cache
+D:\c#\Задания у Гутникова\Мороз Лабораторная 2 - шифровка и дешифровка\Лаба №2\obj\Debug\Лаба__2.Form1.resources
+D:\c#\Задания у Гутникова\Мороз Лабораторная 2 - шифровка и дешифровка\Лаба №2\obj\Debug\Лаба__2.Properties.Resources.resources
+D:\c#\Задания у Гутникова\Мороз Лабораторная 2 - шифровка и дешифровка\Лаба №2\obj\Debug\Лаба №2.csproj.GenerateResource.cache
+D:\c#\Задания у Гутникова\Мороз Лабораторная 2 - шифровка и дешифровка\Лаба №2\obj\Debug\Лаба №2.csproj.CoreCompileInputs.cache
+D:\c#\Задания у Гутникова\Мороз Лабораторная 2 - шифровка и дешифровка\Лаба №2\obj\Debug\Лаба №2.exe
+D:\c#\Задания у Гутникова\Мороз Лабораторная 2 - шифровка и дешифровка\Лаба №2\obj\Debug\Лаба №2.pdb
+C:\Users\User\Desktop\study\ПРОГА ОТ ВАЛИ(ак)\c#\Задания у Гутникова\Мороз Лабораторная 2 - шифровка и дешифровка\Лаба №2\bin\Debug\Лаба №2.exe.config
+C:\Users\User\Desktop\study\ПРОГА ОТ ВАЛИ(ак)\c#\Задания у Гутникова\Мороз Лабораторная 2 - шифровка и дешифровка\Лаба №2\bin\Debug\Лаба №2.exe
+C:\Users\User\Desktop\study\ПРОГА ОТ ВАЛИ(ак)\c#\Задания у Гутникова\Мороз Лабораторная 2 - шифровка и дешифровка\Лаба №2\bin\Debug\Лаба №2.pdb
+C:\Users\User\Desktop\study\ПРОГА ОТ ВАЛИ(ак)\c#\Задания у Гутникова\Мороз Лабораторная 2 - шифровка и дешифровка\Лаба №2\obj\Debug\Лаба №2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\study\ПРОГА ОТ ВАЛИ(ак)\c#\Задания у Гутникова\Мороз Лабораторная 2 - шифровка и дешифровка\Лаба №2\obj\Debug\Лаба__2.Form1.resources
+C:\Users\User\Desktop\study\ПРОГА ОТ ВАЛИ(ак)\c#\Задания у Гутникова\Мороз Лабораторная 2 - шифровка и дешифровка\Лаба №2\obj\Debug\Лаба__2.Properties.Resources.resources
+C:\Users\User\Desktop\study\ПРОГА ОТ ВАЛИ(ак)\c#\Задания у Гутникова\Мороз Лабораторная 2 - шифровка и дешифровка\Лаба №2\obj\Debug\Лаба №2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\study\ПРОГА ОТ ВАЛИ(ак)\c#\Задания у Гутникова\Мороз Лабораторная 2 - шифровка и дешифровка\Лаба №2\obj\Debug\Лаба №2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\study\ПРОГА ОТ ВАЛИ(ак)\c#\Задания у Гутникова\Мороз Лабораторная 2 - шифровка и дешифровка\Лаба №2\obj\Debug\Лаба №2.exe
+C:\Users\User\Desktop\study\ПРОГА ОТ ВАЛИ(ак)\c#\Задания у Гутникова\Мороз Лабораторная 2 - шифровка и дешифровка\Лаба №2\obj\Debug\Лаба №2.pdb
+C:\Users\User\source\repos\второй семестр\c#\шифровка и дешифровка\Лаба №2\bin\Debug\Лаба №2.exe.config
+C:\Users\User\source\repos\второй семестр\c#\шифровка и дешифровка\Лаба №2\bin\Debug\Лаба №2.exe
+C:\Users\User\source\repos\второй семестр\c#\шифровка и дешифровка\Лаба №2\bin\Debug\Лаба №2.pdb
+C:\Users\User\source\repos\второй семестр\c#\шифровка и дешифровка\Лаба №2\obj\Debug\Лаба №2.csprojAssemblyReference.cache
+C:\Users\User\source\repos\второй семестр\c#\шифровка и дешифровка\Лаба №2\obj\Debug\Лаба__2.Form1.resources
+C:\Users\User\source\repos\второй семестр\c#\шифровка и дешифровка\Лаба №2\obj\Debug\Лаба__2.Properties.Resources.resources
+C:\Users\User\source\repos\второй семестр\c#\шифровка и дешифровка\Лаба №2\obj\Debug\Лаба №2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\второй семестр\c#\шифровка и дешифровка\Лаба №2\obj\Debug\Лаба №2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\второй семестр\c#\шифровка и дешифровка\Лаба №2\obj\Debug\Лаба №2.exe
+C:\Users\User\source\repos\второй семестр\c#\шифровка и дешифровка\Лаба №2\obj\Debug\Лаба №2.pdb

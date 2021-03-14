@@ -1,0 +1,50 @@
+C:\Users\User\source\repos\Перекодировка\Перекодировка\bin\Debug\Перекодировка.exe.config
+C:\Users\User\source\repos\Перекодировка\Перекодировка\bin\Debug\Перекодировка.exe
+C:\Users\User\source\repos\Перекодировка\Перекодировка\bin\Debug\Перекодировка.pdb
+C:\Users\User\source\repos\Перекодировка\Перекодировка\obj\Debug\Перекодировка.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Перекодировка\Перекодировка\obj\Debug\Перекодировка.Form1.resources
+C:\Users\User\source\repos\Перекодировка\Перекодировка\obj\Debug\Перекодировка.Properties.Resources.resources
+C:\Users\User\source\repos\Перекодировка\Перекодировка\obj\Debug\Перекодировка.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Перекодировка\Перекодировка\obj\Debug\Перекодировка.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Перекодировка\Перекодировка\obj\Debug\Перекодировка.exe
+C:\Users\User\source\repos\Перекодировка\Перекодировка\obj\Debug\Перекодировка.pdb
+E:\РОГАТЫЙ\Перекодировка\Перекодировка\Перекодировка\bin\Debug\Перекодировка.exe.config
+E:\РОГАТЫЙ\Перекодировка\Перекодировка\Перекодировка\bin\Debug\Перекодировка.exe
+E:\РОГАТЫЙ\Перекодировка\Перекодировка\Перекодировка\bin\Debug\Перекодировка.pdb
+E:\РОГАТЫЙ\Перекодировка\Перекодировка\Перекодировка\obj\Debug\Перекодировка.csprojAssemblyReference.cache
+E:\РОГАТЫЙ\Перекодировка\Перекодировка\Перекодировка\obj\Debug\Перекодировка.Form1.resources
+E:\РОГАТЫЙ\Перекодировка\Перекодировка\Перекодировка\obj\Debug\Перекодировка.Properties.Resources.resources
+E:\РОГАТЫЙ\Перекодировка\Перекодировка\Перекодировка\obj\Debug\Перекодировка.csproj.GenerateResource.cache
+E:\РОГАТЫЙ\Перекодировка\Перекодировка\Перекодировка\obj\Debug\Перекодировка.csproj.CoreCompileInputs.cache
+E:\РОГАТЫЙ\Перекодировка\Перекодировка\Перекодировка\obj\Debug\Перекодировка.exe
+E:\РОГАТЫЙ\Перекодировка\Перекодировка\Перекодировка\obj\Debug\Перекодировка.pdb
+C:\Users\DELL\Desktop\Перекодировка\Перекодировка\Перекодировка\bin\Debug\Перекодировка.exe.config
+C:\Users\DELL\Desktop\Перекодировка\Перекодировка\Перекодировка\bin\Debug\Перекодировка.exe
+C:\Users\DELL\Desktop\Перекодировка\Перекодировка\Перекодировка\bin\Debug\Перекодировка.pdb
+C:\Users\DELL\Desktop\Перекодировка\Перекодировка\Перекодировка\obj\Debug\Перекодировка.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Перекодировка\Перекодировка\Перекодировка\obj\Debug\Перекодировка.Form1.resources
+C:\Users\DELL\Desktop\Перекодировка\Перекодировка\Перекодировка\obj\Debug\Перекодировка.Properties.Resources.resources
+C:\Users\DELL\Desktop\Перекодировка\Перекодировка\Перекодировка\obj\Debug\Перекодировка.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Перекодировка\Перекодировка\Перекодировка\obj\Debug\Перекодировка.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Перекодировка\Перекодировка\Перекодировка\obj\Debug\Перекодировка.exe
+C:\Users\DELL\Desktop\Перекодировка\Перекодировка\Перекодировка\obj\Debug\Перекодировка.pdb
+C:\Users\User\Downloads\Perekodirovka\Перекодировка.docx\Перекодировка\Перекодировка\bin\Debug\Перекодировка.exe.config
+C:\Users\User\Downloads\Perekodirovka\Перекодировка.docx\Перекодировка\Перекодировка\bin\Debug\Перекодировка.exe
+C:\Users\User\Downloads\Perekodirovka\Перекодировка.docx\Перекодировка\Перекодировка\bin\Debug\Перекодировка.pdb
+C:\Users\User\Downloads\Perekodirovka\Перекодировка.docx\Перекодировка\Перекодировка\obj\Debug\Перекодировка.csprojAssemblyReference.cache
+C:\Users\User\Downloads\Perekodirovka\Перекодировка.docx\Перекодировка\Перекодировка\obj\Debug\Перекодировка.Form1.resources
+C:\Users\User\Downloads\Perekodirovka\Перекодировка.docx\Перекодировка\Перекодировка\obj\Debug\Перекодировка.Properties.Resources.resources
+C:\Users\User\Downloads\Perekodirovka\Перекодировка.docx\Перекодировка\Перекодировка\obj\Debug\Перекодировка.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Perekodirovka\Перекодировка.docx\Перекодировка\Перекодировка\obj\Debug\Перекодировка.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Perekodirovka\Перекодировка.docx\Перекодировка\Перекодировка\obj\Debug\Перекодировка.exe
+C:\Users\User\Downloads\Perekodirovka\Перекодировка.docx\Перекодировка\Перекодировка\obj\Debug\Перекодировка.pdb
+C:\Users\User\source\repos\второй семестр\c#\C# Lab 1 Recoding\Перекодировка\Перекодировка\obj\Debug\Перекодировка.csprojAssemblyReference.cache
+C:\Users\User\source\repos\второй семестр\c#\C# Lab 1 Recoding\Перекодировка\Перекодировка\obj\Debug\Перекодировка.Form1.resources
+C:\Users\User\source\repos\второй семестр\c#\C# Lab 1 Recoding\Перекодировка\Перекодировка\obj\Debug\Перекодировка.Properties.Resources.resources
+C:\Users\User\source\repos\второй семестр\c#\C# Lab 1 Recoding\Перекодировка\Перекодировка\obj\Debug\Перекодировка.csproj.GenerateResource.cache
+C:\Users\User\source\repos\второй семестр\c#\C# Lab 1 Recoding\Перекодировка\Перекодировка\obj\Debug\Перекодировка.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\второй семестр\c#\C# Lab 1 Recoding\Перекодировка\Перекодировка\obj\Debug\Перекодировка.exe
+C:\Users\User\source\repos\второй семестр\c#\C# Lab 1 Recoding\Перекодировка\Перекодировка\obj\Debug\Перекодировка.pdb
+C:\Users\User\source\repos\второй семестр\c#\C# Lab 1 Recoding\Перекодировка\Перекодировка\bin\Debug\Перекодировка.exe.config
+C:\Users\User\source\repos\второй семестр\c#\C# Lab 1 Recoding\Перекодировка\Перекодировка\bin\Debug\Перекодировка.exe
+C:\Users\User\source\repos\второй семестр\c#\C# Lab 1 Recoding\Перекодировка\Перекодировка\bin\Debug\Перекодировка.pdb

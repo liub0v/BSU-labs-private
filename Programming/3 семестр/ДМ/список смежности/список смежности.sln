@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "список смежности", "список смежности\список смежности.vcxproj", "{600668AB-E6EF-49F3-B75A-6B7DEDAC99DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{600668AB-E6EF-49F3-B75A-6B7DEDAC99DA}.Debug|x64.ActiveCfg = Debug|x64
+		{600668AB-E6EF-49F3-B75A-6B7DEDAC99DA}.Debug|x64.Build.0 = Debug|x64
+		{600668AB-E6EF-49F3-B75A-6B7DEDAC99DA}.Debug|x86.ActiveCfg = Debug|Win32
+		{600668AB-E6EF-49F3-B75A-6B7DEDAC99DA}.Debug|x86.Build.0 = Debug|Win32
+		{600668AB-E6EF-49F3-B75A-6B7DEDAC99DA}.Release|x64.ActiveCfg = Release|x64
+		{600668AB-E6EF-49F3-B75A-6B7DEDAC99DA}.Release|x64.Build.0 = Release|x64
+		{600668AB-E6EF-49F3-B75A-6B7DEDAC99DA}.Release|x86.ActiveCfg = Release|Win32
+		{600668AB-E6EF-49F3-B75A-6B7DEDAC99DA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1F94197-D565-49F2-8331-7CF272A9EFB8}
+	EndGlobalSection
+EndGlobal

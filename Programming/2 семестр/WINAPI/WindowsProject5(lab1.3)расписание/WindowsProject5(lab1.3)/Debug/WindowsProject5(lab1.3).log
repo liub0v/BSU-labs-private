@@ -1,0 +1,21 @@
+﻿  stdafx.cpp
+  WindowsProject5(lab1.3).cpp
+c:\users\user\source\repos\второй семестр\winapi\windowsproject5(lab1.3)расписание\windowsproject5(lab1.3)\windowsproject5(lab1.3).cpp(221): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+c:\users\user\source\repos\второй семестр\winapi\windowsproject5(lab1.3)расписание\windowsproject5(lab1.3)\windowsproject5(lab1.3).cpp(223): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+c:\users\user\source\repos\второй семестр\winapi\windowsproject5(lab1.3)расписание\windowsproject5(lab1.3)\windowsproject5(lab1.3).cpp(234): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+c:\users\user\source\repos\второй семестр\winapi\windowsproject5(lab1.3)расписание\windowsproject5(lab1.3)\windowsproject5(lab1.3).cpp(237): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+c:\users\user\source\repos\второй семестр\winapi\windowsproject5(lab1.3)расписание\windowsproject5(lab1.3)\windowsproject5(lab1.3).cpp(248): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+c:\users\user\source\repos\второй семестр\winapi\windowsproject5(lab1.3)расписание\windowsproject5(lab1.3)\windowsproject5(lab1.3).cpp(251): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+c:\users\user\source\repos\второй семестр\winapi\windowsproject5(lab1.3)расписание\windowsproject5(lab1.3)\windowsproject5(lab1.3).cpp(264): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+c:\users\user\source\repos\второй семестр\winapi\windowsproject5(lab1.3)расписание\windowsproject5(lab1.3)\windowsproject5(lab1.3).cpp(267): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+c:\users\user\source\repos\второй семестр\winapi\windowsproject5(lab1.3)расписание\windowsproject5(lab1.3)\windowsproject5(lab1.3).cpp(277): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+c:\users\user\source\repos\второй семестр\winapi\windowsproject5(lab1.3)расписание\windowsproject5(lab1.3)\windowsproject5(lab1.3).cpp(280): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+c:\users\user\source\repos\второй семестр\winapi\windowsproject5(lab1.3)расписание\windowsproject5(lab1.3)\windowsproject5(lab1.3).cpp(291): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+c:\users\user\source\repos\второй семестр\winapi\windowsproject5(lab1.3)расписание\windowsproject5(lab1.3)\windowsproject5(lab1.3).cpp(294): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+c:\users\user\source\repos\второй семестр\winapi\windowsproject5(lab1.3)расписание\windowsproject5(lab1.3)\windowsproject5(lab1.3).cpp(304): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+c:\users\user\source\repos\второй семестр\winapi\windowsproject5(lab1.3)расписание\windowsproject5(lab1.3)\windowsproject5(lab1.3).cpp(306): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+c:\users\user\source\repos\второй семестр\winapi\windowsproject5(lab1.3)расписание\windowsproject5(lab1.3)\windowsproject5(lab1.3).cpp(308): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+c:\users\user\source\repos\второй семестр\winapi\windowsproject5(lab1.3)расписание\windowsproject5(lab1.3)\windowsproject5(lab1.3).cpp(310): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+c:\users\user\source\repos\второй семестр\winapi\windowsproject5(lab1.3)расписание\windowsproject5(lab1.3)\windowsproject5(lab1.3).cpp(312): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+c:\users\user\source\repos\второй семестр\winapi\windowsproject5(lab1.3)расписание\windowsproject5(lab1.3)\windowsproject5(lab1.3).cpp(314): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+  WindowsProject5(lab1.3).vcxproj -> C:\Users\User\source\repos\второй семестр\WINAPI\WindowsProject5(lab1.3)расписание\Debug\WindowsProject5(lab1.3).exe

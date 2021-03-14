@@ -1,0 +1,3 @@
+﻿  Divine.cpp
+c:\users\user\source\repos\dif_str\dif_str\divine.cpp(27): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Dif_Str.vcxproj -> C:\Users\User\source\repos\Dif_Str\Debug\Dif_Str.exe

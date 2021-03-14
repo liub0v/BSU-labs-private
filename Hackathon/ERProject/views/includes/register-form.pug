@@ -1,0 +1,21 @@
+link(rel="stylesheet" href="css/login-signin-form.css")
+div.signin-panel(id='signin-form')
+    span.form-heading Registration form
+    form(method="post" action="/register" class='form-button')
+        div.input-style
+            input(type="text" name="username" required="")
+            label login
+        div.input-style
+            input(type="email" name="email" required="")
+            label email
+        div.input-style
+            input(type="password" name="password" required="")
+            label password
+        div.input-style
+            input(type="password" name="confirm-password" required="")
+            label confirm password
+        button.main-button(type="submit") sign in
+    div.change-style
+        label I am already a member
+        form(method="post" action="/login-form")
+            button.change-button(type='submit') Log in

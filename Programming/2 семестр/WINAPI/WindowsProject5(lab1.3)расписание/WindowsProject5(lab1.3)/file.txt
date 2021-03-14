@@ -1,0 +1,23 @@
+GA p 248
+DM l 603
+Matan p 521
+PROGA l 521
+PE p 003
+GA l 234
+GA p 521
+Matan l 605
+ENG p 255
+PROGA l 254
+GA p 521
+Matan p 521
+PE p 003
+ENG l 521
+GA p 521
+Matan l 605
+PROGA p 521
+PROGA l 607
+GA l 234
+GA p 521
+Matan p 248
+GA l 521
+

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "шаблоны функций", "шаблоны функций\шаблоны функций.vcxproj", "{06CBC06F-0E8D-4C87-8BC0-44406AED7B9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06CBC06F-0E8D-4C87-8BC0-44406AED7B9F}.Debug|x64.ActiveCfg = Debug|x64
+		{06CBC06F-0E8D-4C87-8BC0-44406AED7B9F}.Debug|x64.Build.0 = Debug|x64
+		{06CBC06F-0E8D-4C87-8BC0-44406AED7B9F}.Debug|x86.ActiveCfg = Debug|Win32
+		{06CBC06F-0E8D-4C87-8BC0-44406AED7B9F}.Debug|x86.Build.0 = Debug|Win32
+		{06CBC06F-0E8D-4C87-8BC0-44406AED7B9F}.Release|x64.ActiveCfg = Release|x64
+		{06CBC06F-0E8D-4C87-8BC0-44406AED7B9F}.Release|x64.Build.0 = Release|x64
+		{06CBC06F-0E8D-4C87-8BC0-44406AED7B9F}.Release|x86.ActiveCfg = Release|Win32
+		{06CBC06F-0E8D-4C87-8BC0-44406AED7B9F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {095499D1-C311-4A17-A26C-EA317B6BCCE7}
+	EndGlobalSection
+EndGlobal

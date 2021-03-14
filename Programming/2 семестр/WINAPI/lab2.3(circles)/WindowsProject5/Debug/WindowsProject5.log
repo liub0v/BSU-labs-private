@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  WindowsProject5.cpp
+c:\users\user\source\repos\второй семестр\winapi\lab2.3(circles)\windowsproject5\windowsproject5.cpp(171): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\user\source\repos\второй семестр\winapi\lab2.3(circles)\windowsproject5\windowsproject5.cpp(180): warning C4018: <: несоответствие типов со знаком и без знака
+  WindowsProject5.vcxproj -> C:\Users\User\source\repos\второй семестр\WINAPI\lab2.3(circles)\Debug\WindowsProject5.exe

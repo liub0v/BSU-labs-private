@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\User\source\repos\BMA_lab1_task1\BMA_lab1_task1\Source.cpp(41,16): warning C4101:  s: неиспользованная локальная переменная
+C:\Users\User\source\repos\BMA_lab1_task1\BMA_lab1_task1\Source.cpp(62,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\User\source\repos\BMA_lab1_task1\BMA_lab1_task1\Source.cpp(93,42): warning C4244:  =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\BMA_lab1_task1\BMA_lab1_task1\Source.cpp(97,37): warning C4244:  =: преобразование "double" в "float", возможна потеря данных
+  BMA_lab1_task1.vcxproj -> C:\Users\User\source\repos\BMA_lab1_task1\Debug\BMA_lab1_task1.exe

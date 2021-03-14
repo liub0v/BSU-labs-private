@@ -1,0 +1,8 @@
+﻿  2.cpp
+c:\users\user\source\repos\общеезадание1\2\2.cpp(16): warning C4018: <=: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\общеезадание1\2\2.cpp(18): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\общеезадание1\2\2.cpp(20): warning C4018: <=: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\общеезадание1\2\2.cpp(44): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\общеезадание1\2\2.cpp(47): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\общеезадание1\2\2.cpp(54): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  2.vcxproj -> C:\Users\User\source\repos\общеезадание1\Debug\2.exe

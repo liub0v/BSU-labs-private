@@ -1,0 +1,96 @@
+.main-board{
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: rgba(255, 255, 255, 0.3);
+    position: absolute;
+    top: 30%;
+    left: 5%;
+    right: 5%;
+    bottom: 10%;
+}
+.greeting{
+    position: absolute;
+    top:10%;
+    left: 5%;
+    right: 5%;
+    font-family: "Century Gothic", sans-serif;
+    color: #fff;
+    font-size: 500%;
+}
+.greeting-name{
+    border: 3px solid;
+    border-image: linear-gradient(90deg, rgba(190,240,0,1) 0%, rgba(246,253,209,1) 27%,
+    rgba(145,250,150,1) 50%, rgba(198,184,102,1) 75%, rgba(135,122,240,1) 100%);
+    border-image-slice: 1;
+    //background: rgb(204,35,245);
+    //background: radial-gradient(circle, rgba(204,35,245,1) 0%, rgba(219,35,116,1) 14%, rgba(236,36,47,1) 32%, rgba(247,118,37,1) 51%, rgba(213,230,36,1) 68%, rgba(35,212,94,1) 84%, rgba(35,184,245,1) 100%);
+}
+.emotions-table{
+    font-family: "Century Gothic", sans-serif;
+    color: #fff;
+    font-size: 100%;
+    border: 3px solid;
+    border-collapse: collapse;
+    position: absolute;
+    top: 30%;
+    left: 5%;
+    right: 5%;
+    bottom: 10%;
+
+}
+.emotions-table td,th{
+    padding: 10px 15px;
+    border-bottom: 1px solid;
+    border-left: 1px solid;
+}
+.emotions-table tr {
+    padding: 10px 15px;
+/ / border: 1 px solid;
+/ / border-left: 1 px solid;
+
+}
+.showEmotionInfoBtn{
+    position: relative;
+    margin-top:10%;
+    left:5%;
+    font-family: "Century Gothic", sans-serif;
+    color: #fff;
+    font-size: 100%;
+    background: rgba(245, 245, 245, 0);
+    border: 0;
+    cursor: pointer;
+    outline: none;
+}
+.showEmotionInfoBtn:active,.showEmotionInfoBtn:hover {
+    border: 0px;
+    background: rgba(10, 11, 52, 0.12);
+    color: #0a0b34;
+
+}
+.canvas{
+    background-color: rgba(255, 255, 255, 0.3);
+    position: relative;
+    margin-top: 60%;
+    margin-bottom:10%;
+    margin-left: 0%;
+    margin-right: 20%;
+    border: 1px solid;
+    border-color: white;
+}
+.sendResultBtn:active,sendResultBtn:hover{
+    border: 0px;
+    background: rgba(10, 11, 52, 0.12);
+    color: #0a0b34;
+}
+.sendResultBtn{
+    position: relative;
+    //margin-top:10%;
+    left:5%;
+    font-family: "Century Gothic", sans-serif;
+    color: #fff;
+    font-size: 100%;
+    background: rgba(245, 245, 245, 0);
+    border: 0;
+    cursor: pointer;
+    outline: none;
+}

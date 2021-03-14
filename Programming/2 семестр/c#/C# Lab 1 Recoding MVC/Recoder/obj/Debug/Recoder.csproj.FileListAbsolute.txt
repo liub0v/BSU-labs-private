@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\второй семестр\c#\Recoder\Recoder\bin\Debug\Recoder.exe.config
+C:\Users\User\source\repos\второй семестр\c#\Recoder\Recoder\bin\Debug\Recoder.exe
+C:\Users\User\source\repos\второй семестр\c#\Recoder\Recoder\bin\Debug\Recoder.pdb
+C:\Users\User\source\repos\второй семестр\c#\Recoder\Recoder\obj\Debug\Recoder.csprojAssemblyReference.cache
+C:\Users\User\source\repos\второй семестр\c#\Recoder\Recoder\obj\Debug\Recoder.MainForm.resources
+C:\Users\User\source\repos\второй семестр\c#\Recoder\Recoder\obj\Debug\Recoder.Properties.Resources.resources
+C:\Users\User\source\repos\второй семестр\c#\Recoder\Recoder\obj\Debug\Recoder.csproj.GenerateResource.cache
+C:\Users\User\source\repos\второй семестр\c#\Recoder\Recoder\obj\Debug\Recoder.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\второй семестр\c#\Recoder\Recoder\obj\Debug\Recoder.exe
+C:\Users\User\source\repos\второй семестр\c#\Recoder\Recoder\obj\Debug\Recoder.pdb

@@ -1,0 +1,9 @@
+C:\Users\Лиза\source\repos\Lab14_EP\bin\Debug\Lab14_EP.exe.config
+C:\Users\Лиза\source\repos\Lab14_EP\bin\Debug\Lab14_EP.exe
+C:\Users\Лиза\source\repos\Lab14_EP\bin\Debug\Lab14_EP.pdb
+C:\Users\Лиза\source\repos\Lab14_EP\obj\Debug\Lab14_EP.csprojAssemblyReference.cache
+C:\Users\Лиза\source\repos\Lab14_EP\obj\Debug\Lab14_EP.Properties.Resources.resources
+C:\Users\Лиза\source\repos\Lab14_EP\obj\Debug\Lab14_EP.csproj.GenerateResource.cache
+C:\Users\Лиза\source\repos\Lab14_EP\obj\Debug\Lab14_EP.csproj.CoreCompileInputs.cache
+C:\Users\Лиза\source\repos\Lab14_EP\obj\Debug\Lab14_EP.exe
+C:\Users\Лиза\source\repos\Lab14_EP\obj\Debug\Lab14_EP.pdb

@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\user\source\repos\кр\кр\source.cpp(29): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\user\source\repos\кр\кр\source.cpp(88): warning C4018: <=: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\кр\кр\source.cpp(96): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  кр.vcxproj -> C:\Users\User\source\repos\кр\Debug\кр.exe

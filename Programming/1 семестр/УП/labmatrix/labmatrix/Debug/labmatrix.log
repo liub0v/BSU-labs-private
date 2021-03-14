@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\user\source\repos\первый семестр\уп\labmatrix\labmatrix\source.cpp(18): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  labmatrix.vcxproj -> C:\Users\User\source\repos\первый семестр\УП\labmatrix\Debug\labmatrix.exe

@@ -1,0 +1,64 @@
+* {
+    padding: 0;
+    //margin: 0;
+}
+
+body {
+
+    //background-image: url("../img/backgrouds/eye1.1.jpg");
+    background: rgb(204,35,245);
+    background: linear-gradient(90deg, rgba(204,35,245,1) 0%, rgba(247,37,66,1) 51%, rgba(204,35,245,1) 100%);
+    //backgroung-position: center;
+    //background-size: cover;
+   //background-origin: content-box;
+}
+
+
+
+.error {
+    background-color: rgb(248, 203, 203);
+    border: 1px solid rgb(245, 87, 87);
+    color: rgb(245, 49, 49);
+    padding: 10px 15px;
+}
+
+
+.user-post-area {
+    padding: 20px 0;
+}
+
+form {
+    overflow: hidden;
+    margin-bottom: 10px;
+}
+
+textarea {
+    box-sizing: border-box;
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    font-size: 18px;
+    padding: 10px;
+    resize: vertical;
+}
+
+.post {
+    padding: 20px;
+    border: 1px solid #bbb;
+    color: #888;
+    margin-bottom: 5px;
+}
+
+p {
+    padding: 10px;
+}
+.dashboard{
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    position: absolute;
+    top: 10%;
+    left: 0;
+    right: 0;
+    bottom: 70%;
+}

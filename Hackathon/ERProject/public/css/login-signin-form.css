@@ -1,0 +1,141 @@
+.login-panel {
+    border: 1px solid #ccc;
+    background-color: rgba(255, 255, 255, 0.3);
+    position: absolute;
+    left: 60.5%;
+    right: 10.5%;
+    top: 20%;
+    bottom: 20%;
+
+}
+
+.signin-panel {
+    border: 1px solid #ccc;
+    background-color: rgba(255, 255, 255, 0.3);
+    position: absolute;
+    left: 60.5%;
+    right: 10.5%;
+    top: 10%;
+    bottom: 10%;
+
+}
+
+.form-heading {
+    font-family: "Century Gothic", sans-serif;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 50px;
+    margin: 50px 0 0px 0;
+    display: block;
+    text-align: center;
+}
+
+.input-style {
+    position: relative;
+    top: 10%;
+    left: 10%;
+    right: 10%;
+    margin-top: 2%;
+}
+
+.input-style label {
+    font-family: "Century Gothic", sans-serif;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-size: 28px;
+    color: #ffffff;
+    pointer-event: none;
+    transition: all 0.5s ease-in-out;
+
+}
+
+.input-style input {
+    border: 0;
+    border-bottom: 1px solid;
+    border-color: #ffffff;
+    background: rgba(255, 255, 255, 0);
+    width: 80%;
+    height: 50px;
+    font-size: 28px;
+    margin-bottom: 7%;
+}
+
+.input-style input:focus {
+    margin-top: 5px;
+    font-family: "Century Gothic", sans-serif;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid #0a0b34;
+    color: #0a0b34;
+}
+
+.input-style input:focus ~ label, .input-style input:valid ~ label {
+    top: -15px;
+    font-size: 22px;
+}
+
+.main-button {
+    font-family: "Century Gothic", sans-serif;
+    font-size: 20px;
+    text-transform: uppercase;
+    background-color: #fcfcfc;
+    border: 0;
+    color: #090f2b;
+    padding: 5px 10px;
+    cursor: pointer;
+    outline: none;
+    position: relative;
+    top: 15%;
+    left: 70%;
+}
+
+.main-button:active {
+    color: #ffffff;
+    background-color: #090f2b;
+}
+
+.change-style {
+    position: absolute;
+    right: 0;
+    bottom: 10px;
+    left: 0;
+    display: block;
+    text-align: center;
+
+}
+
+.change-style label {
+
+    font-family: "Century Gothic", sans-serif;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 18px;
+}
+
+.change-button {
+    margin-left: 2px;
+    font-family: "Century Gothic", sans-serif;
+    font-size: 18px;
+    text-transform: uppercase;
+    background-color: rgba(252, 252, 252, 0.35);
+    border: 0;
+    color: #ffffff;
+    padding: 3px 5px;
+    cursor: pointer;
+    outline: none;
+    margin-top: 4%;
+}
+
+.change-button:active {
+    color: #ffffff;
+    background-color: rgba(9, 15, 43, 0.47);
+}
+
+
+.form-button {
+
+    margin-top: 10%;
+
+
+}

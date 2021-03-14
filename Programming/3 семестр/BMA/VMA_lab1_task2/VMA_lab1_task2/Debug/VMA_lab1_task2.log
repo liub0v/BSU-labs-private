@@ -1,0 +1,17 @@
+﻿  Source.cpp
+C:\Users\User\source\repos\VMA_lab1_task2\VMA_lab1_task2\Source.cpp(26,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\User\source\repos\VMA_lab1_task2\VMA_lab1_task2\Source.cpp(63,43): warning C4244:  =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\VMA_lab1_task2\VMA_lab1_task2\Source.cpp(66,33): warning C4244:  =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\VMA_lab1_task2\VMA_lab1_task2\Source.cpp(79,22): warning C4244:  =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\VMA_lab1_task2\VMA_lab1_task2\Source.cpp(82,45): warning C4244:  =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\VMA_lab1_task2\VMA_lab1_task2\Source.cpp(89,22): warning C4244:  =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\VMA_lab1_task2\VMA_lab1_task2\Source.cpp(93,45): warning C4244:  =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\VMA_lab1_task2\VMA_lab1_task2\Source.cpp(100,22): warning C4244:  =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\VMA_lab1_task2\VMA_lab1_task2\Source.cpp(104,69): warning C4244:  =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\VMA_lab1_task2\VMA_lab1_task2\Source.cpp(223,8): warning C4101:  div: неиспользованная локальная переменная
+C:\Users\User\source\repos\VMA_lab1_task2\VMA_lab1_task2\Source.cpp(222,7): warning C4101:  temp: неиспользованная локальная переменная
+C:\Users\User\source\repos\VMA_lab1_task2\VMA_lab1_task2\Source.cpp(224,8): warning C4101:  mul: неиспользованная локальная переменная
+C:\Users\User\source\repos\VMA_lab1_task2\VMA_lab1_task2\Source.cpp(179,13): warning C4101:  s: неиспользованная локальная переменная
+C:\Users\User\source\repos\VMA_lab1_task2\VMA_lab1_task2\Source.cpp(191,14): warning C4101:  s: неиспользованная локальная переменная
+C:\Users\User\source\repos\VMA_lab1_task2\VMA_lab1_task2\Source.cpp(215,13): warning C4101:  s: неиспользованная локальная переменная
+  VMA_lab1_task2.vcxproj -> C:\Users\User\source\repos\VMA_lab1_task2\Debug\BMA_lab1_task2.exe

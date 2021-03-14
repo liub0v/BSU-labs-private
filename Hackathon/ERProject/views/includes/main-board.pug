@@ -1,0 +1,197 @@
+link(rel="stylesheet" href="css/main-board.css")
+
+snap.greeting Hello,
+    snap.greeting-name=id
+    | . Let's get started
+mixin information(information,id)
+    table.emotions-table
+        tr
+            th Date
+            th Result
+            th Angry
+            th Disgust
+            th Fear
+            th Happy
+            th Sad
+            th Surprise
+            th Neutral
+        if information
+            - var length1 = information.length
+            - var index =0
+            while index < length1
+                tr
+                    td=information[index].date
+                    td=information[index].max
+                    td=information[index].emotions[0].value
+                    td=information[index].emotions[1].value
+                    td=information[index].emotions[2].value
+                    td=information[index].emotions[3].value
+                    td=information[index].emotions[4].value
+                    td=information[index].emotions[5].value
+                    td=information[index++].emotions[6].value
+
+mixin diagram(information,id)
+    if information
+        canvas.canvas(id="myChart" width="600" height="200")
+            script.
+                var speedCanvas = document.getElementById("myChart");
+                Chart.defaults.global.defaultFontFamily = "Century Gothic";
+                Chart.defaults.global.defaultFontSize = 18;
+                Chart.defaults.global.defaultFontColor='white'
+                let time = [];
+                let emotionsValue0 = [];
+                let emotionsValue1 = [];
+                let emotionsValue2 = [];
+                let emotionsValue3 = [];
+                let emotionsValue4 = [];
+                let emotionsValue5 = [];
+                let emotionsValue6 = [];
+                let str_info = '#{information}';
+                let arr1 = str_info.split(',');
+                //let temp=arr1[0].split('-')[1].split(' ');
+                //console.log(temp);
+                //let date=temp[0]+" "+temp[1]+" "+temp[2];
+                for (let i = 1; i < arr1.length; i += 17) {
+                    time.push(' ');
+                    //time.push(arr1[i].split('-')[1].split(' ')[3]);
+                    console.log(time[i]);
+                }
+                for (let i = 4; i < arr1.length; i += 17) {
+                    emotionsValue0.push(arr1[i].split(':')[1]);
+                }
+                for (let i = 6; i < arr1.length; i += 17) {
+                    emotionsValue1.push(arr1[i].split(':')[1]);
+                    //console.log(emotionsValue1);
+                }
+                for (let i = 8; i < arr1.length; i += 17) {
+                    emotionsValue2.push(arr1[i].split(':')[1]);
+                    //console.log(emotionsValue1);
+                }
+                for (let i = 10; i < arr1.length; i += 17) {
+                    emotionsValue3.push(arr1[i].split(':')[1]);
+                    //console.log(emotionsValue1);
+                }
+                for (let i = 12; i < arr1.length; i += 17) {
+                    emotionsValue4.push(arr1[i].split(':')[1]);
+                    //console.log(emotionsValue1);
+                }
+                for (let i = 14; i < arr1.length; i += 17) {
+                    emotionsValue5.push(arr1[i].split(':')[1]);
+                    //console.log(emotionsValue1);
+                }
+                for (let i = 16; i < arr1.length; i += 17) {
+                    emotionsValue6.push(arr1[i].split(':')[1]);
+                    //console.log(emotionsValue1);
+                }
+
+                var speedData = {
+                    labels: time,
+                    datasets: [{
+                        label: "ANGRY",
+                        data: emotionsValue0,
+                        borderColor: 'rgb(2,218,246)',
+                        backgroundColor: 'rgba(2,218,246,0.29)'
+                    }, {
+                        label: "DISGUST",
+                        data: emotionsValue1,
+                        borderColor: 'rgb(20,231,15)',
+                        backgroundColor: 'rgba(20,231,15,0.29)'
+
+                    }, {
+                        label: "FEAR",
+                        data: emotionsValue2,
+
+                        borderColor: 'rgb(181,2,246)',
+                        backgroundColor: 'rgba(181,2,246,0.29)',
+
+                    }, {
+                        label: "HAPPY",
+                        data: emotionsValue3,
+
+                        borderColor: 'rgb(201,246,2)',
+                        backgroundColor: 'rgba(201,246,2,0.29)'
+
+                    }, {
+                        label: "SAD",
+                        data: emotionsValue4,
+
+                        borderColor: 'rgb(18,93,232)',
+                        backgroundColor: 'rgba(18,93,232,0.29)'
+
+                    }, {
+                        label: "SURPRISE",
+                        data: emotionsValue5,
+                        borderColor: 'rgb(255,5,172)',
+                        backgroundColor: 'rgba(255,5,172,0.29)'
+
+                    }, {
+                        label: "NEUTRAL",
+                        data: emotionsValue6,
+                        borderColor: 'rgb(255,255,255)',
+                        backgroundColor: 'rgba(255,255,255,0.29)'
+
+                    }]
+                };
+                var speedData1 = {
+                    labels: time,
+                    datasets: [{
+                        label: "DISGUST",
+                        data: emotionsValue1,
+                    }]
+                };
+
+                var chartOptions = {
+                    legend: {
+                        display: true,
+                        position: 'top',
+                        labels: {
+                            boxWidth: 20,
+                            fontColor: 'white',
+                            fontFamily: "Century Gothic",
+                        }
+                    },
+                    scales: {
+
+                        xAxes: [{
+                            display: true,
+                            gridLines: {
+                                display: false
+                            },
+                            scaleLabel: {
+                            fontColor:'#ffffff',
+                                display: true,
+                                labelString: 'time',
+                            }
+                        }],
+                        yAxes: [{
+                            display: true,
+                            gridLines: {
+                                display: false
+                            },
+                            scaleLabel: {
+                                display: true,
+                                labelString: 'Value'
+                            }
+                        }]
+                    }
+                };
+
+                var lineChart = new Chart(speedCanvas, {
+                    type: 'line',
+                    data: speedData,
+                    options: chartOptions
+                });
+
+
+
+giv
+    form(method='get' action='/emotion')
+        button.showEmotionInfoBtn show information
+    form(method='post' action='/sendData')
+        button.sendResultBtn send result
+    +information(information,id)
++diagram(information,id)
+
+
+
+

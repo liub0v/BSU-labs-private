@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  Animation2.cpp
+c:\users\user\source\repos\winapi\калькулятор\animation2\animation2.cpp(3): warning C4603: _CRT_SECURE_NO_WARNINGS: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+  c:\users\user\source\repos\winapi\калькулятор\animation2\animation2.cpp(3): note: Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+  c:\users\user\source\repos\winapi\калькулятор\animation2\animation2.cpp(4): note: использование предварительно скомпилированного заголовка
+  Animation2.vcxproj -> C:\Users\User\source\repos\WINAPI\калькулятор\Debug\Animation2.exe

@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\user\source\repos\laba3a\laba3a\source.cpp(4): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  LABA3A.vcxproj -> C:\Users\User\source\repos\LABA3A\Debug\LABA3A.exe

@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\User\source\repos\lab2_BMA\lab2_BMA\Source.cpp(8,13): warning C4326:  возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\User\source\repos\lab2_BMA\lab2_BMA\Source.cpp(147,6): warning C4244:  =: преобразование "double" в "int", возможна потеря данных
+  lab2_BMA.vcxproj -> C:\Users\User\source\repos\lab2_BMA\Debug\lab2_BMA.exe

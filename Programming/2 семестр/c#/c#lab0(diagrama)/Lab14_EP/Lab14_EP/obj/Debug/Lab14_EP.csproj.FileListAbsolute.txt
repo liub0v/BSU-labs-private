@@ -1,0 +1,19 @@
+C:\Users\Лиза\source\repos\Lab14_EP\Lab14_EP\obj\Debug\Lab14_EP.csprojAssemblyReference.cache
+C:\Users\Лиза\source\repos\Lab14_EP\Lab14_EP\obj\Debug\Lab14_EP.Properties.Resources.resources
+C:\Users\Лиза\source\repos\Lab14_EP\Lab14_EP\obj\Debug\Lab14_EP.csproj.GenerateResource.cache
+C:\Users\Лиза\source\repos\Lab14_EP\Lab14_EP\obj\Debug\Lab14_EP.csproj.CoreCompileInputs.cache
+C:\Users\Лиза\source\repos\Lab14_EP\Lab14_EP\bin\Debug\Lab14_EP.exe.config
+C:\Users\Лиза\source\repos\Lab14_EP\Lab14_EP\bin\Debug\Lab14_EP.exe
+C:\Users\Лиза\source\repos\Lab14_EP\Lab14_EP\bin\Debug\Lab14_EP.pdb
+C:\Users\Лиза\source\repos\Lab14_EP\Lab14_EP\obj\Debug\Lab14_EP.exe
+C:\Users\Лиза\source\repos\Lab14_EP\Lab14_EP\obj\Debug\Lab14_EP.pdb
+C:\Users\User\source\repos\второй семестр\c#\C# EX 1 Diagram-20190521T171220Z-001\C# EX 1 Diagram\Lab14_EP\Lab14_EP\bin\Debug\Lab14_EP.exe.config
+C:\Users\User\source\repos\второй семестр\c#\C# EX 1 Diagram-20190521T171220Z-001\C# EX 1 Diagram\Lab14_EP\Lab14_EP\bin\Debug\Lab14_EP.exe
+C:\Users\User\source\repos\второй семестр\c#\C# EX 1 Diagram-20190521T171220Z-001\C# EX 1 Diagram\Lab14_EP\Lab14_EP\bin\Debug\Lab14_EP.pdb
+C:\Users\User\source\repos\второй семестр\c#\C# EX 1 Diagram-20190521T171220Z-001\C# EX 1 Diagram\Lab14_EP\Lab14_EP\obj\Debug\Lab14_EP.csprojAssemblyReference.cache
+C:\Users\User\source\repos\второй семестр\c#\C# EX 1 Diagram-20190521T171220Z-001\C# EX 1 Diagram\Lab14_EP\Lab14_EP\obj\Debug\Lab14_EP.Properties.Resources.resources
+C:\Users\User\source\repos\второй семестр\c#\C# EX 1 Diagram-20190521T171220Z-001\C# EX 1 Diagram\Lab14_EP\Lab14_EP\obj\Debug\Lab14_EP.csproj.GenerateResource.cache
+C:\Users\User\source\repos\второй семестр\c#\C# EX 1 Diagram-20190521T171220Z-001\C# EX 1 Diagram\Lab14_EP\Lab14_EP\obj\Debug\Lab14_EP.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\второй семестр\c#\C# EX 1 Diagram-20190521T171220Z-001\C# EX 1 Diagram\Lab14_EP\Lab14_EP\obj\Debug\Lab14_EP.exe
+C:\Users\User\source\repos\второй семестр\c#\C# EX 1 Diagram-20190521T171220Z-001\C# EX 1 Diagram\Lab14_EP\Lab14_EP\obj\Debug\Lab14_EP.pdb
+C:\Users\User\source\repos\второй семестр\c#\C# EX 1 Diagram-20190521T171220Z-001\C# EX 1 Diagram\Lab14_EP\Lab14_EP\obj\Debug\Lab14_EP.Form2.resources

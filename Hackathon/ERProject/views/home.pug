@@ -1,0 +1,21 @@
+extends layout
+mixin message(opp, id)
+    if(opp)
+        include includes/main-board
+    else
+        include includes/new-user-board
+
+block header
+    include includes/header
+        append links
+            li
+                a(href="/camera") Camera
+        append links
+            li
+                a(href="/logout") Logout
+
+block content
+    +message(opp,id)
+block scripts
+    if information
+

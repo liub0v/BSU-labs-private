@@ -1,0 +1,4 @@
+﻿  WindowsProject6(lec3).cpp
+c:\users\user\source\repos\winapi\windowsproject6(lec3)диалоговые окна\windowsproject6(lec3)\resource.h(13): warning C4005: IDOK: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winuser.h(10817): note: см. предыдущее определение "IDOK"
+  WindowsProject6(lec3).vcxproj -> C:\Users\User\source\repos\WINAPI\WindowsProject6(lec3)диалоговые окна\Debug\WindowsProject6(lec3).exe

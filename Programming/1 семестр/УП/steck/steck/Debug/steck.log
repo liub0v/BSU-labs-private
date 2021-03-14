@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\user\source\repos\steck\steck\source.cpp(14): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+c:\users\user\source\repos\steck\steck\source.cpp(16): warning C4101: ch: неиспользованная локальная переменная
+  steck.vcxproj -> C:\Users\User\source\repos\steck\Debug\steck.exe

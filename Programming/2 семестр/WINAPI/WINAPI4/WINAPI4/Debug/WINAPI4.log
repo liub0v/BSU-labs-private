@@ -1,0 +1,5 @@
+﻿  WINAPI4.cpp
+C:\Users\sauhi\source\repos\WINAPI4\WINAPI4\WINAPI4.cpp(155): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sauhi\source\repos\WINAPI4\WINAPI4\WINAPI4.cpp(158): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sauhi\source\repos\WINAPI4\WINAPI4\WINAPI4.cpp(161): warning C4018: '<': signed/unsigned mismatch
+  WINAPI4.vcxproj -> C:\Users\sauhi\source\repos\WINAPI4\Debug\WINAPI4.exe

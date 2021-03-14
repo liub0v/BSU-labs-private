@@ -1,0 +1,9 @@
+﻿  Game.cpp
+  MagicCharacter.cpp
+  main.cpp
+D:\study\PROGA\первый семестр\Project3\Project3\main.cpp(10,20): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\study\PROGA\первый семестр\Project3\Project3\main.cpp(11,25): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\study\PROGA\первый семестр\Project3\Project3\main.cpp(19,20): warning C4018:  <: несоответствие типов со знаком и без знака
+  Создание кода...
+D:\study\PROGA\первый семестр\Project3\Project3\main.cpp(26,20): warning C4018:  <: несоответствие типов со знаком и без знака
+  Project3.vcxproj -> D:\study\PROGA\первый семестр\Project3\Debug\Project3.exe

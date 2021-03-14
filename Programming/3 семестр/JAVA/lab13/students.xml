@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root lang="en">
+    <Student>
+        <field>1923224</field>
+        <field>Name10</field>
+        <field>MA</field>
+        <field>10</field>
+    </Student>
+    <Student>
+        <field>1923454</field>
+        <field>Name40</field>
+        <field>PROGA</field>
+        <field>7</field>
+    </Student>
+    <Student>
+        <field>1923333</field>
+        <field>Name08</field>
+        <field>ECO</field>
+        <field>8</field>
+    </Student>
+    <Student>
+        <field>1923449</field>
+        <field>Name29</field>
+        <field>MA</field>
+        <field>10</field>
+    </Student>
+    <Student>
+        <field>1923090</field>
+        <field>Name96</field>
+        <field>DM</field>
+        <field>9</field>
+    </Student>
+</Root>

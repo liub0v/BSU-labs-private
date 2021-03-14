@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\User\source\repos\Дерево(yes_no)\Дерево(yes_no)\Source.cpp(18,1): warning C4326:  возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\User\source\repos\Дерево(yes_no)\Дерево(yes_no)\Source.cpp(19,9): warning C4101:  y: неиспользованная локальная переменная
+C:\Users\User\source\repos\Дерево(yes_no)\Дерево(yes_no)\Source.cpp(19,6): warning C4101:  x: неиспользованная локальная переменная
+  Дерево(yes_no).vcxproj -> C:\Users\User\source\repos\Дерево(yes_no)\Debug\Дерево(yes_no).exe

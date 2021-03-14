@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\user\source\repos\бинарное дерево(картотека)\project1\source.cpp(286): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\бинарное дерево(картотека)\project1\source.cpp(287): warning C4018: >: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\бинарное дерево(картотека)\project1\source.cpp(310): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Project1.vcxproj -> C:\Users\User\source\repos\бинарное дерево(картотека)\Debug\Project1.exe

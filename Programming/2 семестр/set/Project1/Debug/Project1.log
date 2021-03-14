@@ -1,0 +1,171 @@
+﻿  Class.cpp
+c:\users\user\source\repos\project1\project1\class.cpp(23): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+c:\users\user\source\repos\project1\project1\class.h(190): error C2679: бинарный "=": не найден оператор, принимающий правый операнд типа "int" (или приемлемое преобразование отсутствует)
+  c:\users\user\source\repos\project1\project1\class.cpp(21): note: может быть "avto &avto::operator =(avto &&)"
+  c:\users\user\source\repos\project1\project1\class.cpp(21): note: или       "avto &avto::operator =(const avto &)"
+  c:\users\user\source\repos\project1\project1\class.h(190): note: при попытке сопоставить список аргументов "(T, int)"
+          with
+          [
+              T=avto
+          ]
+  c:\users\user\source\repos\project1\project1\class.h(187): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\user\source\repos\project1\project1\class.cpp(30): note: выполняется компиляция ссылки на экземпляр шаблон функции "set<avto>::set(int)"
+  c:\users\user\source\repos\project1\project1\class.cpp(30): note: выполняется компиляция ссылки на экземпляр шаблон класс "set<avto>"
+c:\users\user\source\repos\project1\project1\class.h(60): error C2678: бинарный "==": не найден оператор, принимающий левый операнд типа "T" (или приемлемое преобразование отсутствует)
+          with
+          [
+              T=avto
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\system_error(284): note: может быть "bool std::operator ==(const std::error_condition &,const std::error_condition &) noexcept"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\system_error(278): note: или       "bool std::operator ==(const std::error_condition &,const std::error_code &) noexcept"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\system_error(272): note: или       "bool std::operator ==(const std::error_code &,const std::error_condition &) noexcept"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\system_error(266): note: или       "bool std::operator ==(const std::error_code &,const std::error_code &) noexcept"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\exception(331): note: или       "bool std::operator ==(const std::exception_ptr &,std::nullptr_t) noexcept"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\exception(326): note: или       "bool std::operator ==(std::nullptr_t,const std::exception_ptr &) noexcept"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\exception(321): note: или       "bool std::operator ==(const std::exception_ptr &,const std::exception_ptr &) noexcept"
+  c:\users\user\source\repos\project1\project1\class.h(60): note: при попытке сопоставить список аргументов "(T, int)"
+          with
+          [
+              T=avto
+          ]
+  c:\users\user\source\repos\project1\project1\class.h(53): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\user\source\repos\project1\project1\class.cpp(65): note: выполняется компиляция ссылки на экземпляр шаблон функции "void set<avto>::del(T &)"
+          with
+          [
+              T=avto
+          ]
+c:\users\user\source\repos\project1\project1\class.h(80): error C2678: бинарный "==": не найден оператор, принимающий левый операнд типа "T" (или приемлемое преобразование отсутствует)
+          with
+          [
+              T=avto
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\system_error(284): note: может быть "bool std::operator ==(const std::error_condition &,const std::error_condition &) noexcept"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\system_error(278): note: или       "bool std::operator ==(const std::error_condition &,const std::error_code &) noexcept"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\system_error(272): note: или       "bool std::operator ==(const std::error_code &,const std::error_condition &) noexcept"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\system_error(266): note: или       "bool std::operator ==(const std::error_code &,const std::error_code &) noexcept"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\exception(331): note: или       "bool std::operator ==(const std::exception_ptr &,std::nullptr_t) noexcept"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\exception(326): note: или       "bool std::operator ==(std::nullptr_t,const std::exception_ptr &) noexcept"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\exception(321): note: или       "bool std::operator ==(const std::exception_ptr &,const std::exception_ptr &) noexcept"
+  c:\users\user\source\repos\project1\project1\class.h(80): note: при попытке сопоставить список аргументов "(T, T)"
+          with
+          [
+              T=avto
+          ]
+  c:\users\user\source\repos\project1\project1\class.h(78): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\user\source\repos\project1\project1\class.cpp(75): note: выполняется компиляция ссылки на экземпляр шаблон функции "bool set<avto>::check_in(T)"
+          with
+          [
+              T=avto
+          ]
+c:\users\user\source\repos\project1\project1\class.h(92): error C2679: бинарный "<<": не найден оператор, принимающий правый операнд типа "T" (или приемлемое преобразование отсутствует)
+          with
+          [
+              T=avto
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\ostream(508): note: может быть "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_streambuf<char,std::char_traits<char>> *)"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\ostream(480): note: или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(const void *)"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\ostream(460): note: или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long double)"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\ostream(440): note: или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(double)"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\ostream(420): note: или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(float)"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\ostream(400): note: или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned __int64)"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\ostream(380): note: или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(__int64)"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\ostream(360): note: или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned long)"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\ostream(340): note: или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long)"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\ostream(320): note: или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned int)"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\ostream(295): note: или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(int)"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\ostream(275): note: или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned short)"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\ostream(241): note: или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(short)"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\ostream(221): note: или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(bool)"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\ostream(215): note: или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::ios_base &(__cdecl *)(std::ios_base &))"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\ostream(209): note: или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ios<char,std::char_traits<char>> &(__cdecl *)(std::basic_ios<char,std::char_traits<char>> &))"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\ostream(204): note: или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ostream<char,std::char_traits<char>> &(__cdecl *)(std::basic_ostream<char,std::char_traits<char>> &))"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\ostream(1047): note: или       "std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const std::error_code &)"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\ostream(981): note: или       "std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,unsigned char)"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\ostream(974): note: или       "std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const unsigned char *)"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\ostream(967): note: или       "std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,signed char)"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\ostream(960): note: или       "std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const signed char *)"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\ostream(834): note: или       "std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,char)"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\ostream(787): note: или       "std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const char *)"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\ostream(749): note: или       "std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,char)"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\ostream(702): note: или       "std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const char *)"
+  c:\users\user\source\repos\project1\project1\class.h(92): note: при попытке сопоставить список аргументов "(std::basic_ostream<char,std::char_traits<char>>, T)"
+          with
+          [
+              T=avto
+          ]
+  c:\users\user\source\repos\project1\project1\class.h(86): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\user\source\repos\project1\project1\class.cpp(111): note: выполняется компиляция ссылки на экземпляр шаблон функции "void set<avto>::output(void)"
+c:\users\user\source\repos\project1\project1\class.h(94): error C2679: бинарный "<<": не найден оператор, принимающий правый операнд типа "T" (или приемлемое преобразование отсутствует)
+          with
+          [
+              T=avto
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\ostream(508): note: может быть "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_streambuf<char,std::char_traits<char>> *)"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\ostream(480): note: или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(const void *)"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\ostream(460): note: или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long double)"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\ostream(440): note: или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(double)"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\ostream(420): note: или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(float)"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\ostream(400): note: или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned __int64)"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\ostream(380): note: или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(__int64)"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\ostream(360): note: или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned long)"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\ostream(340): note: или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long)"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\ostream(320): note: или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned int)"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\ostream(295): note: или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(int)"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\ostream(275): note: или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned short)"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\ostream(241): note: или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(short)"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\ostream(221): note: или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(bool)"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\ostream(215): note: или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::ios_base &(__cdecl *)(std::ios_base &))"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\ostream(209): note: или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ios<char,std::char_traits<char>> &(__cdecl *)(std::basic_ios<char,std::char_traits<char>> &))"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\ostream(204): note: или       "std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ostream<char,std::char_traits<char>> &(__cdecl *)(std::basic_ostream<char,std::char_traits<char>> &))"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\ostream(1047): note: или       "std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const std::error_code &)"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\ostream(981): note: или       "std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,unsigned char)"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\ostream(974): note: или       "std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const unsigned char *)"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\ostream(967): note: или       "std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,signed char)"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\ostream(960): note: или       "std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const signed char *)"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\ostream(834): note: или       "std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,char)"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\ostream(787): note: или       "std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const char *)"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\ostream(749): note: или       "std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,char)"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\ostream(702): note: или       "std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const char *)"
+  c:\users\user\source\repos\project1\project1\class.h(94): note: при попытке сопоставить список аргументов "(std::basic_ostream<char,std::char_traits<char>>, T)"
+          with
+          [
+              T=avto
+          ]
+c:\users\user\source\repos\project1\project1\class.h(109): error C2678: бинарный "==": не найден оператор, принимающий левый операнд типа "T" (или приемлемое преобразование отсутствует)
+          with
+          [
+              T=avto
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\system_error(284): note: может быть "bool std::operator ==(const std::error_condition &,const std::error_condition &) noexcept"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\system_error(278): note: или       "bool std::operator ==(const std::error_condition &,const std::error_code &) noexcept"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\system_error(272): note: или       "bool std::operator ==(const std::error_code &,const std::error_condition &) noexcept"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\system_error(266): note: или       "bool std::operator ==(const std::error_code &,const std::error_code &) noexcept"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\exception(331): note: или       "bool std::operator ==(const std::exception_ptr &,std::nullptr_t) noexcept"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\exception(326): note: или       "bool std::operator ==(std::nullptr_t,const std::exception_ptr &) noexcept"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\exception(321): note: или       "bool std::operator ==(const std::exception_ptr &,const std::exception_ptr &) noexcept"
+  c:\users\user\source\repos\project1\project1\class.h(109): note: при попытке сопоставить список аргументов "(T, T)"
+          with
+          [
+              T=avto
+          ]
+  c:\users\user\source\repos\project1\project1\class.h(102): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\user\source\repos\project1\project1\class.cpp(95): note: выполняется компиляция ссылки на экземпляр шаблон функции "set<avto> set<avto>::operator *(const set<avto> &)"
+c:\users\user\source\repos\project1\project1\class.h(144): error C2678: бинарный "==": не найден оператор, принимающий левый операнд типа "T" (или приемлемое преобразование отсутствует)
+          with
+          [
+              T=avto
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\system_error(284): note: может быть "bool std::operator ==(const std::error_condition &,const std::error_condition &) noexcept"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\system_error(278): note: или       "bool std::operator ==(const std::error_condition &,const std::error_code &) noexcept"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\system_error(272): note: или       "bool std::operator ==(const std::error_code &,const std::error_condition &) noexcept"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\system_error(266): note: или       "bool std::operator ==(const std::error_code &,const std::error_code &) noexcept"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\exception(331): note: или       "bool std::operator ==(const std::exception_ptr &,std::nullptr_t) noexcept"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\exception(326): note: или       "bool std::operator ==(std::nullptr_t,const std::exception_ptr &) noexcept"
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\exception(321): note: или       "bool std::operator ==(const std::exception_ptr &,const std::exception_ptr &) noexcept"
+  c:\users\user\source\repos\project1\project1\class.h(144): note: при попытке сопоставить список аргументов "(T, T)"
+          with
+          [
+              T=avto
+          ]
+  c:\users\user\source\repos\project1\project1\class.h(140): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\user\source\repos\project1\project1\class.cpp(104): note: выполняется компиляция ссылки на экземпляр шаблон функции "set<avto> set<avto>::operator -(set<avto>)"

@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\user\source\repos\первый семестр\уп\бинарные файлы 7\бинарные файлы 7\source.cpp(200): warning C4101: l: неиспользованная локальная переменная
+c:\users\user\source\repos\первый семестр\уп\бинарные файлы 7\бинарные файлы 7\source.cpp(386): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+  бинарные файлы 7.vcxproj -> C:\Users\User\source\repos\первый семестр\УП\бинарные файлы 7\Debug\бинарные файлы 7.exe

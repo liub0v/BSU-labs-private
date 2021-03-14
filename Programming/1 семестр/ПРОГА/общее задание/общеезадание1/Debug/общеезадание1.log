@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (общеезадание1.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  3.cpp
+c:\users\user\source\repos\общеезадание1\общеезадание1\3.cpp(51): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\user\source\repos\общеезадание1\общеезадание1\3.cpp(94): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  общеезадание1.vcxproj -> C:\Users\User\source\repos\общеезадание1\Debug\3.exe

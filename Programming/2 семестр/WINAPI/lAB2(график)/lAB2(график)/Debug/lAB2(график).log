@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  lAB2(график).cpp
+c:\users\user\source\repos\второй семестр\winapi\lab2(график)\lab2(график)\lab2(график).cpp(165): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\второй семестр\winapi\lab2(график)\lab2(график)\lab2(график).cpp(183): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\второй семестр\winapi\lab2(график)\lab2(график)\lab2(график).cpp(149): warning C4101: hdc: неиспользованная локальная переменная
+  lAB2(график).vcxproj -> C:\Users\User\source\repos\второй семестр\WINAPI\lAB2(график)\Debug\lAB2(график).exe

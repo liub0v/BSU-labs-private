@@ -1,0 +1,116 @@
+Microsoft (R) Macro Assembler Version 14.21.27702.2	    06/05/19 01:37:52
+STDCL.asm						     Page 1 - 1
+
+
+				.486
+				PUBLIC _TestStd@12
+				.model flat
+ 00000000			.code
+ 00000000			_TestStd@12 proc
+
+				local res: dword,
+				      i: dword,
+					  hlp: dword,
+					  n: dword,
+					  a: dword,
+					  b: dword
+ 00000006  C7 45 F8		mov i, 0
+	   00000000
+ 0000000D  89 65 EC		mov a, esp
+
+ 00000010  8B 45 08		mov eax, [ebp + 8]
+ 00000013  89 45 F0		mov n, eax
+ 00000016  8B 45 0C		mov eax, [ebp + 12]
+ 00000019  89 45 FC		mov res, eax
+ 0000001C  8B 45 10		mov eax, [ebp + 16]
+ 0000001F  89 45 EC		mov a, eax
+ 00000022  33 C0		xor eax, eax
+
+ 00000024  8B 5D EC		mov		ebx, a
+ 00000027  8B 4D F0				mov		ecx, n
+ 0000002A				cycle2:
+
+ 0000002A  51					push	ecx
+ 0000002B  8B 4D F0				mov		ecx, n
+ 0000002E  33 FF				xor		edi, edi
+ 00000030					cycle1:
+						
+ 00000030  8B 04 3B					mov		eax, [ebx + edi]
+ 00000033  83 C7 04					add		edi, 4
+ 00000036  89 45 F4					mov		hlp, eax
+
+							
+
+
+							
+ 00000039  39 7D F8					cmp		i, edi
+ 0000003C  7C 09				JL	higher
+ 0000003E  8B 45 FC					mov		eax, res
+ 00000041  F7 65 F4					mul		hlp
+ 00000044  89 45 FC					mov		res, eax
+
+								
+					
+ 00000047					higher:
+							
+ 00000047  E2 E7				loop cycle1
+ 00000049  B8 00000004					mov		eax, 4
+ 0000004E  F7 65 F0					mul		n
+ 00000051  03 D8					add		ebx, eax
+ 00000053  59						pop		ecx
+ 00000054  B8 00000004					mov		eax, 4
+ 00000059  01 45 F8					add		i, eax
+ 0000005C  E2 CC			loop cycle2
+ 0000005E  8B 45 FC			mov eax, res
+ 00000061  8B 65 EC			mov esp, a
+				ret
+ 00000066			_TestStd@12 endp
+STDCL.asm(62) : warning A6004:procedure argument or local not referenced : b
+				end
+Microsoft (R) Macro Assembler Version 14.21.27702.2	    06/05/19 01:37:52
+STDCL.asm						     Symbols 2 - 1
+
+
+
+
+Segments and Groups:
+
+                N a m e                 Size     Length   Align   Combine Class
+
+FLAT . . . . . . . . . . . . . .	GROUP
+_DATA  . . . . . . . . . . . . .	32 Bit	 00000000 Para	  Public  'DATA'	
+_TEXT  . . . . . . . . . . . . .	32 Bit	 00000066 Para	  Public  'CODE'	
+
+
+Procedures, parameters, and locals:
+
+                N a m e                 Type     Value    Attr
+
+_TestStd@12  . . . . . . . . . .	P Near	 00000000 _TEXT	Length= 00000066 Public
+  res  . . . . . . . . . . . . .	DWord	 bp - 00000004
+  i  . . . . . . . . . . . . . .	DWord	 bp - 00000008
+  hlp  . . . . . . . . . . . . .	DWord	 bp - 0000000C
+  n  . . . . . . . . . . . . . .	DWord	 bp - 00000010
+  a  . . . . . . . . . . . . . .	DWord	 bp - 00000014
+  b  . . . . . . . . . . . . . .	DWord	 bp - 00000018
+  cycle2 . . . . . . . . . . . .	L Near	 0000002A _TEXT	
+  cycle1 . . . . . . . . . . . .	L Near	 00000030 _TEXT	
+  higher . . . . . . . . . . . .	L Near	 00000047 _TEXT	
+
+
+Symbols:
+
+                N a m e                 Type     Value    Attr
+
+@CodeSize  . . . . . . . . . . .	Number	 00000000h   
+@DataSize  . . . . . . . . . . .	Number	 00000000h   
+@Interface . . . . . . . . . . .	Number	 00000000h   
+@Model . . . . . . . . . . . . .	Number	 00000007h   
+@code  . . . . . . . . . . . . .	Text   	 _TEXT
+@data  . . . . . . . . . . . . .	Text   	 FLAT
+@fardata?  . . . . . . . . . . .	Text   	 FLAT
+@fardata . . . . . . . . . . . .	Text   	 FLAT
+@stack . . . . . . . . . . . . .	Text   	 FLAT
+
+	   1 Warnings
+	   0 Errors

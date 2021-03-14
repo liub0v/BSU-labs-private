@@ -1,0 +1,55 @@
+.scrn, .vid {
+    border-radius:3px !important;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    width: 100%;
+    height:auto;
+    margin-left:auto;
+    margin-right:auto;
+    padding:6px;
+    background:#5cad55;
+}
+
+.scrn {
+    margin-left:5px !important;
+}
+
+#myCanvas, #video {
+    width: 100%;
+    height:auto;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.result, .bttn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+}
+.bttn {
+    padding-top: 5px;
+}
+
+.b1, .b2, .b3, .b4 {
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    margin: 2px;
+    border: solid 1px transparent;
+    border-radius: 4px;
+    padding: 0.5em 1em;
+    color: #ffffff;
+    background-color: #9555af;
+}
+
+.b1:active, .b2:active, .b3:active, .b4:active {
+    transform: translateY(1px);
+    filter: saturate(150%);
+}
+
+.b1:hover, .b2:hover, .b3:hover, .b4:hover,
+.b1:focus, .b2:focus, .b3:focus, .b4:focus {
+    color: #9555af;
+    border-color: currentColor;
+    background-color: white;
+}

@@ -1,0 +1,6 @@
+what brand of car do you prefer?
+800 Toyota
+966 Mazda
+1024 Ford
+321 BMW
+166 Ferrari

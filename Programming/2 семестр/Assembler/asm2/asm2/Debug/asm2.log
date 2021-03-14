@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\user\source\repos\asm2\asm2\source.cpp(21): warning C4101: ex0: неиспользованная локальная переменная
+  asm2.vcxproj -> C:\Users\User\source\repos\asm2\Debug\asm2.exe

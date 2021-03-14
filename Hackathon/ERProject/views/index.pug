@@ -1,0 +1,12 @@
+extends layout
+block content
+    if(opp == 2)
+        include includes/register-form
+        script.
+            document.getElementById('login-form').remove()
+    if(opp == 3)
+        include includes/login-form
+        script.
+            document.getElementById('signin-form').remove()
+    if(opp != 2 && opp != 3)
+        include includes/login-form
