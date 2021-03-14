@@ -1,0 +1,73 @@
+select * from (
+  select JOBNAME from CAREER11 c left join JOB11 j on c.JOBNO = j.JOBNO
+)
+pivot(
+  count(JOBNAME) for JOBNAME in (
+'PRESIDENT' as PRESIDENT,
+'FINANCIAL DIRECTOR' as FINANCIAL_DIRECTOR, 
+'EXECUTIVE DIRECTOR' as EXECUTIVE_DIRECTOR, 
+'MANAGER' as MANAGER, 
+'CLERK' as CLERK, 
+'DRIVER' as DRIVER,
+'SALESMAN' as SALESMAN)
+);
+commit;
+select 
+max(case when DEPTNAME = 'ACCOUNTING' then EMPNAME else NULL end) as ACCOUNTING,
+max(case when DEPTNAME = 'RESEARCH' then EMPNAME else NULL end) as RESEARCH,
+max(case when DEPTNAME = 'SALES' then EMPNAME else NULL end) as SALES,
+max(case when DEPTNAME = 'OPERATIONS' then EMPNAME else NULL end) as OPERATIONS
+from (
+select DEPTNAME, EMPNAME, row_number()over(partition by DEPTNAME order by EMPNAME) rn
+from EMP11 join (CAREER11 join DEPT11 using (DEPTNO)) using (EMPNO)
+)
+group by rn;
+commit;
+select j.JOBNAME,
+case j.JOBNAME
+when 'CLERK' then emp_cnts.CLERK
+when 'DRIVER' then emp_cnts.DRIVER
+when 'EXECUTIVE DIRECTOR' then emp_cnts.EXECUTIVE_DIRECTOR
+when 'FINANCIAL DIRECTOR' then emp_cnts.FINANCIAL_DIRECTOR
+when 'MANAGER' then emp_cnts.MANAGER
+when 'PRESIDENT' then emp_cnts.PRESIDENT
+when 'SALESMAN' then emp_cnts.SALESMAN
+else NULL
+end as EMPCOUNT
+from (
+select * from (
+  select JOBNAME from CAREER11 c left join JOB11 j on c.JOBNO = j.JOBNO
+)
+pivot(
+  count(JOBNAME) for JOBNAME in ( 
+'PRESIDENT' as PRESIDENT,
+'EXECUTIVE DIRECTOR' as EXECUTIVE_DIRECTOR, 
+'FINANCIAL DIRECTOR' as FINANCIAL_DIRECTOR,
+'MANAGER' as MANAGER,
+'CLERK' as CLERK,
+'DRIVER' as DRIVER, 
+'SALESMAN' as SALESMAN)
+)
+) emp_cnts, (
+select JOBNAME from JOB11) j;
+commit;
+create or replace view EMPS_INFO11 as (
+select JOBNO, JOBNAME, count(JOBNAME) as JOBCOUNT
+from CAREER11 join JOB11 using(JOBNO)
+group by JOBNAME, JOBNO
+);
+commit;
+select 
+case rn
+when 1 THEN JOBNAME
+when 2 THEN cast(JOBCOUNT as CHAR(4))
+end EMPS
+from (
+select e.JOBNAME, e.JOBCOUNT,
+row_number()over(partition by e.JOBNAME order by e.JOBNAME) rn
+from EMPS_INFO11 e,
+(select * from EMPS_INFO11 where ROWNUM <= 3) 
+);
+commit;
+select decode(lag(DEPTNAME) over(order by DEPTNAME), DEPTNAME, NULL, DEPTNAME) DEPTNAME, EMPNAME
+from EMP11 join (CAREER11 join DEPT11 using(DEPTNO)) using(EMPNO);
